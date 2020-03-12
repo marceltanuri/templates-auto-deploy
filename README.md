@@ -8,5 +8,6 @@ Obs: This is a initial idea with the basics features:
 * It is only working for templates that already exist in the database
 
 In the feature:
+* Auto deploy of ddmStructures
 * To work for templates that already don't exist in the database (add new template)
 * Identify the template classnameId (AssetEntry, BlogEntry, etc)
