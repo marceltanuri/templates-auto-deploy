@@ -6,7 +6,7 @@ How it works:
 2) If you have a widgetTemplate with the name myBlogADT, so the only thing you need to do is to copy your myBlogADT.ftl file to your new directory {liferay.home}/deployTemplates
 3) Your file will be read and your ADT will be updated.
 
-Obs: This is a initial idea with the basics features:
+Obs: This is a initial idea with only some basic features:
 * Auto deploy of widgetTemplates
 * Auto deploy of webContentTemplates
 * It is considered that templates have a unique name. In case of double results only one will be processed.
