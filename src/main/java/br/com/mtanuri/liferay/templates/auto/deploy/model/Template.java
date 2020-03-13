@@ -4,11 +4,17 @@ public class Template {
 
 	private String getFullName;
 	private String script;
+	private long classNameId;
+	private long resourceClassNameId;
+	private long groupId;
 
-	public Template(String getFullName, String script) {
+	public Template(String getFullName, String script, long classNameId, long resourceClassNameId, long groupId) {
 		super();
 		this.getFullName = getFullName;
 		this.script = script;
+		this.classNameId = classNameId;
+		this.resourceClassNameId = resourceClassNameId;
+		this.groupId = groupId;
 	}
 
 	public String getName() {
@@ -31,8 +37,16 @@ public class Template {
 		return getFullName;
 	}
 
-	public void setGetFullName(String getFullName) {
-		this.getFullName = getFullName;
+	public long getClassNameId() {
+		return classNameId;
+	}
+
+	public long getResourceClassNameId() {
+		return resourceClassNameId;
+	}
+
+	public long getGroupId() {
+		return groupId;
 	}
 
 	@Override
