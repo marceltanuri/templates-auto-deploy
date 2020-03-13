@@ -7,13 +7,11 @@ How it works:
 
 The deployTemplates dir has the following sub-dirs
 
--- /deployTemplates
+├─ deployTemplates
+├─── {groupId}
+├───── {resourceClassName} for example: PortletDisplayTemplate
+├─────── {className} for example: BlogsEntry
 
---- /{groupId}
-
----- /{resourceClassName} for example: PortletDisplayTemplate
-
------ /{className} for example: BlogsEntry
 
 3) Your file will be read and your ADT will be updated.
 
