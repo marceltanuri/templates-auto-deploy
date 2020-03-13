@@ -14,5 +14,5 @@ Obs: This is a initial idea with only some basic features:
 
 In the feature:
 * Auto deploy of ddmStructures
-* To work for templates that already don't exist in the database (add new template)
+* To work for templates that don't exist yet in the database (add new template)
 * Identify the template classnameId (AssetEntry, BlogEntry, etc)
