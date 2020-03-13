@@ -26,3 +26,6 @@ Obs: This is a initial idea with only some basic features:
 
 In the feature:
 * Auto deploy of ddmStructures
+
+demonstration (duration 10 min. / language: portuguese)
+https://drive.google.com/file/d/1JuzpZ7Bx5sDb9fGtt25NNs1Oi8WALRBP/view?usp=sharing
