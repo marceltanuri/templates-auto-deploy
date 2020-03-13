@@ -8,8 +8,11 @@ How it works:
 The deployTemplates dir has the following sub-dirs
 
 ├─ deployTemplates
+
 ├─── {groupId}
+
 ├───── {resourceClassName} for example: PortletDisplayTemplate
+
 ├─────── {className} for example: BlogsEntry
 
 
