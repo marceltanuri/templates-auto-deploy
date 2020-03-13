@@ -6,9 +6,13 @@ How it works:
 2) If you have a widgetTemplate with the name myBlogADT, so the only thing you need to do is to copy your myBlogADT.ftl file to your new directory {liferay.home}/deployTemplates
 
 The deployTemplates dir has the following sub-dirs
+
 - /deployTemplates
+
 -- /{groupId}
+
 --- /{resourceClassName} for example: PortletDisplayTemplate
+
 ---- /{className} for example: BlogsEntry
 
 3) Your file will be read and your ADT will be updated.
