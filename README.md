@@ -24,7 +24,7 @@ Obs: This is a initial idea with only some basic features:
 * Auto deploy of new widgetTemplates
 * Auto deploy of new webContentTemplates
 
-In the feature:
+In the future:
 * Auto deploy of ddmStructures
 
 demonstration (duration 10 min. / language: portuguese)
